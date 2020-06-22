@@ -1,6 +1,6 @@
 # Threejs Demo
 
-![Threejs Logo](https://github.com/d3vkk/personal-website/blob/master/threejs-logo.png)
+![Threejs Logo](https://github.com/d3vkk/threejs-demo/blob/master/threejs-logo.png)
 
 Threejs Animation Library Demo from Official Docs 
 
